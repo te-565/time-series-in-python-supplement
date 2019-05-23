@@ -50,5 +50,8 @@ Speaker notes and additional resources for the Python Time Series course
 * [Time Series Forecasting in Python Cheat Sheet](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
 * [Kaggle Time Series Analysis in Python (Part 1)](https://www.kaggle.com/kashnitsky/topic-9-part-1-time-series-analysis-in-python)
 * [Kaggle Time Series Analysis with Facebook Prophet](https://www.kaggle.com/kashnitsky/topic-9-part-2-time-series-with-facebook-prophet)
+* [Example Notebook with Prophet](https://nbviewer.jupyter.org/github/departmentfortransport/ds-highwaysEnglandAPI-example/blob/master/python-example.ipynb)
+
+
 
 
